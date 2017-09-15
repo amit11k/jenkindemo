@@ -3,6 +3,9 @@ public static void main(String[] args){
 
 System.out.println("Welcome to Capgemini");
 System.out.println("Welcome to Git");
-System.oue.println("Welcome to Tester");
+System.out.println("Welcome to Tester");
+
+System.out.println("Welcome to the third");
+
 }
 }
